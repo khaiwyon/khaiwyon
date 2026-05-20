@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello%20World!%20I'm%20Khai&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Enthusiast%20•%203D%20Designs&descSize=20&descAlignY=55)](https://github.com/khaiwyon)
 
-I am a full stack software engineer with 10+ years of industry experience in Malaysia building production-grade management systems and scalable web applications.
+I am a full stack software engineer with 10+ years of industry experience building production-grade management systems and scalable web applications.
 
 My background bridges low-level embedded engineering and modern full-stack development, allowing me to design systems with both performance efficiency and user experience in mind.
 
